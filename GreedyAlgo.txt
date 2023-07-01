@@ -1,0 +1,8 @@
+Title: Greedy Algorithms
+
+Introduction:
+Greedy algorithms are a class of algorithms that make locally optimal choices at each step in the hope of finding a global optimum. These algorithms are simple and efficient, making them useful for solving optimization problems. This text file provides an in-depth explanation of how greedy algorithms work and discusses their properties, advantages, and limitations.
+
+1. Algorithmic Paradigm:
+   - Greedy algorithms follow a specific algorithmic paradigm, which involves making the best possible choice at each step without considering the overall consequences.
+   - The algorithm builds a solution incrementally by selecting the locally optimal choice at each iteration, assuming that this choice will lead to the globally optimal solution.
